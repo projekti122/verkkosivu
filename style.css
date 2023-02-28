@@ -1,6 +1,36 @@
 body{
-    background-color: rgb(208, 239, 201);
+    background-color: rgb(218, 219, 134);
     
+}
+
+nav {
+ background-color: rgb(218, 219, 134);
+  height: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+li {
+  float: left;
+  height: 100%;
+}
+
+li a {
+  display: block;
+  color: brown;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
 
 h1 {
@@ -27,5 +57,5 @@ img {
 .bar {
 height: 100px;
 width: 100%;
-background-color: rgb(245, 240, 106);
+background-color: rgb(208, 245, 106);
 }
