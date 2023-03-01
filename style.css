@@ -49,8 +49,11 @@ img {
     display: block;
     top: 0;
     transform: translate(-50%, 0%);
-    left: 70%;
+    left: 50%;
     margin: 0 auto;
+    position: relative;
+    left: 100px;
+    top: 50px;
 
 
    
