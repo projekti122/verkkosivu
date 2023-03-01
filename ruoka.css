@@ -45,7 +45,7 @@ h2 {
     font-size: medium;
     font-family: serif;
 }
-img {
+.kuva2 {
     display: block;
     top: 0;
     transform: translate(-50%, 0%);
@@ -55,11 +55,11 @@ img {
     left: 100px;
     top: 50px;
   
-   
-    
-
 
    
+}
+.kuva1{
+  float: left;
 }
 
 .bar {
