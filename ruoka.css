@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(246, 211, 129);
+    background-color: rgb(218, 219, 134);
     
 }
 
 nav {
- background-color: rgb(240, 202, 124);
+ background-color: rgb(218, 219, 134);
   height: 50px;
 }
 
@@ -45,9 +45,7 @@ h2 {
     font-size: medium;
     font-family: serif;
 }
-
-img 
-{
+img {
     display: block;
     top: 0;
     transform: translate(-50%, 0%);
@@ -57,9 +55,15 @@ img
     left: 100px;
     top: 50px;
   
+   
+    
+
+
+   
 }
+
 .bar {
 height: 100px;
 width: 100%;
-background-color: rgb(224, 239, 184);
+background-color: rgb(208, 245, 106);
 }
