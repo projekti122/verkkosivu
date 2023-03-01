@@ -31,7 +31,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: rgb(245, 179, 121);
 }
 
 h1 {
@@ -41,7 +41,7 @@ h1 {
     font-size: xx-large;
 }
 h2 {
-    color: darkslategray;
+    color: brown;
     font-size: medium;
     font-family: serif;
 }
