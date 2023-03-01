@@ -31,17 +31,17 @@ li a {
 }
 
 li a:hover {
-  background-color: rgb(245, 179, 121);
+  background-color: #111;
 }
 
 h1 {
     color: brown;
-    border-bottom: 3px solid brown;
+    border-bottom: 3px solid red;
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
 }
 h2 {
-    color: brown;
+    color: darkslategray;
     font-size: medium;
     font-family: serif;
 }
@@ -63,4 +63,3 @@ height: 100px;
 width: 100%;
 background-color: rgb(243, 192, 120);
 }
-form 
