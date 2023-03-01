@@ -46,8 +46,7 @@ h2 {
     font-family: serif;
 }
 
-img 
-{
+img{
     display: block;
     top: 0;
     transform: translate(-50%, 0%);
@@ -56,6 +55,7 @@ img
     position: relative;
     left: 100px;
     top: 50px;
+
   
 }
 .bar {
